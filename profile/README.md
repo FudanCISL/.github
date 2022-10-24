@@ -17,7 +17,7 @@
 
 ## Candidate Item Matching
 ### Dynamic Graph
-|Title|Repository|Parper|Publish|
+|Title|Repository|Parper|Public|
 |:---:|:---:|:---:|:---:|
 |Parameter-free Dynamic Graph Embedding for Link Prediction|[link](https://github.com/FudanCISL/FreeGEM)|[arXiv](https://arxiv.org/abs/2210.08189)|NeurIPS 2022|
 
