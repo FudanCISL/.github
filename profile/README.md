@@ -22,3 +22,9 @@
 |Parameter-free Dynamic Graph Embedding for Link Prediction|[link](https://github.com/FudanCISL/FreeGEM)|[arXiv](https://arxiv.org/abs/2210.08189)|NeurIPS 2022|
 
 ## CTR Prediction
+
+# Computer Supported Cooperative Work and Social Computing
+|Title|Repository|Parper|Public|
+|:---:|:---:|:---:|:---:|
+|Building Personalized Machine Translator based on User-generated Textual Content.| |[arXiv](https://arxiv.org/abs/2210.08189)|CSCW 2022|
+
