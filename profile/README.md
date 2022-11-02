@@ -24,7 +24,9 @@
 ## CTR Prediction
 
 # Computer Supported Cooperative Work and Social Computing
+## Human-Centered Text Processing
+### Machine Translation
 |Title|Repository|Parper|Public|
 |:---:|:---:|:---:|:---:|
-|Building Personalized Machine Translator based on User-generated Textual Content.| |[arXiv](https://arxiv.org/abs/2210.08189)|CSCW 2022|
+|Building Personalized Machine Translator based on User-generated Textual Content.| | |CSCW 2022|
 
