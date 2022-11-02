@@ -13,7 +13,7 @@
 实验室主要从事“以人为中心的计算”的跨学科前沿研究，主要包含协同信息与系统和智能人机交互两大方向。采用计算机科学与社会科学互动融合的方法，将信息技术从机器回归聚焦于人（用户）本身，整合“芯片敏捷设计-区块链网络-群智社区-通用智能服务”，旨在打造以人为中心的智能服务。
 
 
-# 1. Recommender System
+# 1. Human-Centered Recommender System
 
 ## 1.1 Candidate Item Matching
 ### Dynamic Graph
@@ -24,6 +24,7 @@
 ## 1.2 CTR Prediction
 
 # 2. Computer Supported Cooperative Work and Social Computing
+
 ## 2.1 Human-Centered Text Processing
 ### Machine Translation
 |Title|Repository|Parper|Public|
