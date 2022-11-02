@@ -28,6 +28,6 @@
 ### Machine Translation
 |Title|Repository|Parper|Public|
 |:---:|:---:|:---:|:---:|
-|Building Personalized Machine Translator based on User-generated Textual Content.| | |The 2022 ACM Conference on Computer Supported Cooperative Work and Social Computing|
+|Building Personalized Machine Translator based on User-generated Textual Content| | |The 2022 ACM Conference on Computer Supported Cooperative Work and Social Computing|
 
 
