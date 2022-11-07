@@ -25,7 +25,7 @@
 |Title|Repository|Parper|Public|
 |:---:|:---:|:---:|:---:|
 |CL4CTR: A Contrastive Learning Framework for CTR Prediction|[link](https://github.com/FudanCISL/CL4CTR)||WSDM 2023|
-|Enhancing CTR Prediction with Context-Aware Feature Representation Learning|[Link](https://github.com/FudanCISL/FRNet)|link(https://dl.acm.org/doi/abs/10.1145/3477495.3531970)|SIGIR 2022|
+|Enhancing CTR Prediction with Context-Aware Feature Representation Learning|[link](https://github.com/FudanCISL/FRNet)|[link](https://dl.acm.org/doi/abs/10.1145/3477495.3531970)|SIGIR 2022|
 |MMCRF: Enhancing CTR Prediction Models via Multi-Channel Feature Refinement Framework||[link](https://www.researchgate.net/profile/Fangye-Wang/publication/360216390_MCRF_Enhancing_CTR_Prediction_Models_via_Multi-Channel_Feature_Refinement_Framework/links/6268d291bca601538b6bfae9/MCRF-Enhancing-CTR-Prediction-Models-via-Multi-Channel-Feature-Refinement-Framework.pdf)|DASFAA 2022|
 
 # 2. Computer Supported Cooperative Work and Social Computing
