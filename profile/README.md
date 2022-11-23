@@ -34,10 +34,10 @@
 ### Machine Translation
 |Title|Repository|Parper|Public|
 |:---:|:---:|:---:|:---:|
-|Building Personalized Machine Translator based on User-generated Textual Content| | |The 2022 ACM Conference on Computer Supported Cooperative Work and Social Computing|
+|Building  User-oriented Machine Translator based on User-generated Textual Content| |[link](https://dl.acm.org/doi/pdf/10.1145/3555171) |The 2022 ACM Conference on Computer Supported Cooperative Work and Social Computing|
 ### Social Media Textual Content Censorship
 |Title|Repository|Parper|Public|
 |:---:|:---:|:---:|:---:|
-|Building a Personalized Model for Social Media Textual Content Censorship| | |The 2022 ACM Conference on Computer Supported Cooperative Work and Social Computing|
+|Building a Personalized Model for Social Media Textual Content Censorship| |[link](https://dl.acm.org/doi/abs/10.1145/3555657)|The 2022 ACM Conference on Computer Supported Cooperative Work and Social Computing|
 
 
