@@ -16,10 +16,17 @@
 # 1. Human-Centered Recommender Systems
 
 ## 1.1 Candidate Item Matching
+
+### Collaborative Filtering
+|Title|Repository|Parper|Public|
+|:---:|:---:|:---:|:---:|
+|Personalized Graph Signal Processing for Collaborative Filtering|[link](https://github.com/FudanCISL/FreeGEM)|[arXiv](https://arxiv.org/abs/2210.08189)|WWW 2023|
+
 ### Dynamic Graph
 |Title|Repository|Parper|Public|
 |:---:|:---:|:---:|:---:|
 |Parameter-free Dynamic Graph Embedding for Link Prediction|[link](https://github.com/FudanCISL/FreeGEM)|[arXiv](https://arxiv.org/abs/2210.08189)|NeurIPS 2022|
+|Triple Structural Information Modelling for Accurate, Explainable and Interactive Recommendation|[arXiv](https://arxiv.org/abs/2210.08189)|SIGIR 2023|
 
 ## 1.2 CTR Prediction
 |Title|Repository|Parper|Public|
