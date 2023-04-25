@@ -25,6 +25,7 @@
 ### Dynamic Graph
 |Title|Repository|Parper|Public|
 |:---:|:---:|:---:|:---:|
+|FIRE: Fast Incremental Recommendation with Graph Signal Processing|[link](https://github.com/FudanCISL/FIRE)||TheWebConf2022|
 |Parameter-free Dynamic Graph Embedding for Link Prediction|[link](https://github.com/FudanCISL/FreeGEM)|[arXiv](https://arxiv.org/abs/2210.08189)|NeurIPS 2022|
 |Triple Structural Information Modelling for Accurate, Explainable and Interactive Recommendation|[link](https://github.com/FudanCISL/FreeGEM)|[arXiv](https://arxiv.org/abs/2210.08189)|SIGIR 2023|
 
